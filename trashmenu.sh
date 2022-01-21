@@ -37,6 +37,7 @@ if [ -n "$option" ]; then
       fi
       ;;
     *)
+      # can be removed
       notify-send "No Option Selected"
       ;;
   esac

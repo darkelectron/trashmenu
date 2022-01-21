@@ -21,3 +21,4 @@ Mange trash directory from terminal (requires `gio`)
 
 ## TODO
 - [ ] Multi restore ( never tested )
+- [ ] Custom commands after
