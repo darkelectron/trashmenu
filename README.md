@@ -1,11 +1,16 @@
 # trashmenu
 
-Mange trash directory from terminal (requires `gio`)
+<p align="center">
+<img src="./scrot.png" />
+</p>
+
+Mange trash directory from dmenu (requires `gio`)
 
 ## Dependencies
 
 ### Required Dependencies
 
+- dmenu
 - gio
 - du
 - gawk
@@ -18,6 +23,7 @@ Mange trash directory from terminal (requires `gio`)
 
 ## Usage
 
+Comment line 26 and line 35 or change those commands to anything else.
 
 ## TODO
 - [ ] Multi restore ( never tested )
