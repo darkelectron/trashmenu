@@ -4,6 +4,10 @@
 <img src="./scrot.png" />
 </p>
 
+<p align="center">
+<img src="./screen.mp4" />
+</p>
+
 Mange trash directory from dmenu (requires `gio`)
 
 ## Dependencies
